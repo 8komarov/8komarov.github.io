@@ -42,8 +42,8 @@
 		
 			<article class="main-article" style="background-image: url(img/dungeon.jpg);">
 				<div class="main-article__content">
-			        <h2 class="main-article__header">Я - QA Engineer</h2>
-					<p class="main-article__paragraph">Приветствую Вас! Я увлекаюсь тестированием и, возможно, буду заниматься тестированием вашего продукта. Если вашей команде необходим классный тестировщик, то поздравляю - Вы его нашли! <img height="128" class="sticker_img im_gift" src="https://vk.com/sticker/1-91195-128"></p>
+			        <h2 class="main-article__header">Я - QA </h2>
+					<p class="main-article__paragraph">Я увлекаюсь тестированием и, возможно, буду заниматься тестированием вашего продукта. Если вашей команде необходим классный тестировщик, то поздравляю - Вы его нашли! <img height="128" class="sticker_img im_gift" src="https://vk.com/sticker/1-91195-128"></p>
 					<a class="hero_link" href="https://https://t.me/n_8komarov="_blank"><i class='bx bxl-telegram'></i></a>
 					<a class="hero_link" href="https://vk.com/8komarov" target="_blank"><i class='bx bxl-vk'></i></a>
 					<a class="hero_link" href="https://github.com/8komarov" target="_blank"><i class='bx bxl-github'></i></a>
